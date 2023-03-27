@@ -1,0 +1,17 @@
+F:\Ahmed\Projects\ECommerce-Skinet\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.AssemblyReference.cache
+F:\Ahmed\Projects\ECommerce-Skinet\Infrastructure\obj\Debug\net7.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+F:\Ahmed\Projects\ECommerce-Skinet\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfoInputs.cache
+F:\Ahmed\Projects\ECommerce-Skinet\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfo.cs
+F:\Ahmed\Projects\ECommerce-Skinet\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.CoreCompileInputs.cache
+F:\Ahmed\Projects\ECommerce-Skinet\Infrastructure\bin\Debug\net7.0\Infrastructure.deps.json
+F:\Ahmed\Projects\ECommerce-Skinet\Infrastructure\bin\Debug\net7.0\Infrastructure.runtimeconfig.json
+F:\Ahmed\Projects\ECommerce-Skinet\Infrastructure\bin\Debug\net7.0\Infrastructure.dll
+F:\Ahmed\Projects\ECommerce-Skinet\Infrastructure\bin\Debug\net7.0\Infrastructure.pdb
+F:\Ahmed\Projects\ECommerce-Skinet\Infrastructure\bin\Debug\net7.0\Core.dll
+F:\Ahmed\Projects\ECommerce-Skinet\Infrastructure\bin\Debug\net7.0\Core.pdb
+F:\Ahmed\Projects\ECommerce-Skinet\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.CopyComplete
+F:\Ahmed\Projects\ECommerce-Skinet\Infrastructure\obj\Debug\net7.0\Infrastructure.dll
+F:\Ahmed\Projects\ECommerce-Skinet\Infrastructure\obj\Debug\net7.0\refint\Infrastructure.dll
+F:\Ahmed\Projects\ECommerce-Skinet\Infrastructure\obj\Debug\net7.0\Infrastructure.pdb
+F:\Ahmed\Projects\ECommerce-Skinet\Infrastructure\obj\Debug\net7.0\Infrastructure.genruntimeconfig.cache
+F:\Ahmed\Projects\ECommerce-Skinet\Infrastructure\obj\Debug\net7.0\ref\Infrastructure.dll
