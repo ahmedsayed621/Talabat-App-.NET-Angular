@@ -23,8 +23,8 @@
 .ionide
 .vs
 .vscode
-bin
-obj
+*bin
+*obj
 
 ### Windows ###
 # Windows thumbnail cache files
