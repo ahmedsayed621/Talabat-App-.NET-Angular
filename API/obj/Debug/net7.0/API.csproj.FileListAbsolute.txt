@@ -58,7 +58,6 @@ F:\Ahmed\Projects\ECommerce-Skinet\API\obj\Debug\net7.0\API.GeneratedMSBuildEdit
 F:\Ahmed\Projects\ECommerce-Skinet\API\obj\Debug\net7.0\API.AssemblyInfoInputs.cache
 F:\Ahmed\Projects\ECommerce-Skinet\API\obj\Debug\net7.0\API.AssemblyInfo.cs
 F:\Ahmed\Projects\ECommerce-Skinet\API\obj\Debug\net7.0\API.csproj.CoreCompileInputs.cache
-F:\Ahmed\Projects\ECommerce-Skinet\API\obj\Debug\net7.0\API.MvcApplicationPartsAssemblyInfo.cs
 F:\Ahmed\Projects\ECommerce-Skinet\API\obj\Debug\net7.0\API.MvcApplicationPartsAssemblyInfo.cache
 F:\Ahmed\Projects\ECommerce-Skinet\API\obj\Debug\net7.0\staticwebassets\msbuild.API.Microsoft.AspNetCore.StaticWebAssets.props
 F:\Ahmed\Projects\ECommerce-Skinet\API\obj\Debug\net7.0\staticwebassets\msbuild.build.API.props

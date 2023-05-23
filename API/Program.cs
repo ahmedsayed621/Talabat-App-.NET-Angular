@@ -1,4 +1,7 @@
+using Core.Entities;
+using Core.Interfaces;
 using Infrastructure.Data;
+using Infrastructure.Repositories;
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -11,8 +14,9 @@ builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 builder.Services.AddDbContext<StoreContext>(opt =>
 {
-    opt.UseSqlite(builder.Configuration.GetConnectionString("DefualtConnection"));
+    opt.UseSqlServer(builder.Configuration.GetConnectionString("StoreConnection"));
 });
+builder.Services.AddScoped(typeof(IGenericRepository<>),typeof(GenericRepository<>));
 
 var app = builder.Build();
 
@@ -28,5 +32,20 @@ app.UseHttpsRedirection();
 app.UseAuthorization();
 
 app.MapControllers();
+
+using var scope= app.Services.CreateScope();
+var context = app.Services.GetRequiredService<StoreContext>();
+var loggerFactory = app.Services.GetRequiredService<ILoggerFactory>();
+
+try
+{
+    await context.Database.MigrateAsync();
+    await StoreContextSeed.SeedAsync(context,loggerFactory);
+}
+catch (Exception ex)
+{
+    var logger = loggerFactory.CreateLogger<ILogger<Program>>();
+    logger.LogError(ex, "Error occured while migrating process");
+}
 
 app.Run();

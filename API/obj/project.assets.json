@@ -1444,6 +1444,7 @@
         "framework": ".NETCoreApp,Version=v7.0",
         "dependencies": {
           "Core": "1.0.0",
+          "Microsoft.EntityFrameworkCore.SqlServer": "7.0.4",
           "Microsoft.EntityFrameworkCore.Sqlite": "7.0.4"
         },
         "compile": {
@@ -4286,6 +4287,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "F:\\Ahmed\\Projects\\Telerik": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {

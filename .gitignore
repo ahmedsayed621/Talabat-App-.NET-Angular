@@ -23,8 +23,9 @@
 .ionide
 .vs
 .vscode
-*bin
-*obj
+bin
+obj
+ECommerceskinet.db
 
 ### Windows ###
 # Windows thumbnail cache files
