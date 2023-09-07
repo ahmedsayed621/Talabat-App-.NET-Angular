@@ -23,9 +23,13 @@
 .ionide
 .vs
 .vscode
-bin
-obj
+
+**\bin
+**\obj
 ECommerceskinet.db
+
+obj
+bin
 
 ### Windows ###
 # Windows thumbnail cache files
@@ -33,6 +37,7 @@ Thumbs.db
 Thumbs.db:encryptable
 ehthumbs.db
 ehthumbs_vista.db
+
 
 # Dump file
 *.stackdump
@@ -57,4 +62,6 @@ $RECYCLE.BIN/
 # End of https://www.toptal.com/developers/gitignore/api/windows,visualstudiocode
 
 # Custom rules (everything added below won't be overriden by 'Generate .gitignore File' if you use 'Update' option)
+**/obj
+**/bin
 

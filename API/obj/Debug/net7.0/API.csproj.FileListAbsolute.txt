@@ -105,3 +105,7 @@ F:\Ahmed\Projects\ECommerce-Skinet\API\bin\Debug\net7.0\Core.dll
 F:\Ahmed\Projects\ECommerce-Skinet\API\bin\Debug\net7.0\Infrastructure.dll
 F:\Ahmed\Projects\ECommerce-Skinet\API\bin\Debug\net7.0\Infrastructure.pdb
 F:\Ahmed\Projects\ECommerce-Skinet\API\bin\Debug\net7.0\Core.pdb
+F:\Ahmed\Projects\ECommerce-Skinet\API\bin\Debug\net7.0\AutoMapper.dll
+F:\Ahmed\Projects\ECommerce-Skinet\API\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+F:\Ahmed\Projects\ECommerce-Skinet\API\obj\Debug\net7.0\API.MvcApplicationPartsAssemblyInfo.cs
+F:\Ahmed\Projects\ECommerce-Skinet\API\bin\Debug\net7.0\API.staticwebassets.runtime.json

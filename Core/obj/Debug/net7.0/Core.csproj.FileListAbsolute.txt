@@ -1,7 +1,6 @@
 F:\Ahmed\Projects\ECommerce-Skinet\Core\bin\Debug\net7.0\Core.deps.json
 F:\Ahmed\Projects\ECommerce-Skinet\Core\bin\Debug\net7.0\Core.dll
 F:\Ahmed\Projects\ECommerce-Skinet\Core\bin\Debug\net7.0\Core.pdb
-F:\Ahmed\Projects\ECommerce-Skinet\Core\obj\Debug\net7.0\Core.csproj.AssemblyReference.cache
 F:\Ahmed\Projects\ECommerce-Skinet\Core\obj\Debug\net7.0\Core.GeneratedMSBuildEditorConfig.editorconfig
 F:\Ahmed\Projects\ECommerce-Skinet\Core\obj\Debug\net7.0\Core.AssemblyInfoInputs.cache
 F:\Ahmed\Projects\ECommerce-Skinet\Core\obj\Debug\net7.0\Core.AssemblyInfo.cs
